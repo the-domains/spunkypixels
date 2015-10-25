@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Delving into the grid early beta after a long waiting time
-datePublished: '2015-10-25T11:17:50.105Z'
-dateModified: '2015-10-25T11:11:56.139Z'
+datePublished: '2015-10-25T11:27:27.265Z'
+dateModified: '2015-10-25T11:27:20.636Z'
 title: Hello world – The Grid Early Beta
 sourcePath: _posts/2015-10-25-hello-world-the-grid-early-beta.md
 published: true
