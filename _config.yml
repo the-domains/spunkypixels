@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 1
+  brandStrength: 0.5430108
   lightness: 1
-  brandStrength: 1
   brandColors:
     - '#FFFF66'
     - '#000000'
