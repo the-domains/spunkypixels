@@ -1,6 +1,6 @@
 name: spunkypixels
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.19798
 title: My brain … on display
 collections:
@@ -30,9 +30,9 @@ opengraph:
 color:
   brandColors:
     - '#ffff66'
+    - '#fffeff'
     - '#000000'
-    - '#9c9c3e'
-    - '#2c2c11'
+    - '#a2acb8'
     - '#4f4f1f'
   brandStrength: 1
   lightness: 1
