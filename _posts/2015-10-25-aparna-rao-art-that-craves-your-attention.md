@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://ted.com'
   name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
   domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
 keywords:
   - ted
   - world-changing
@@ -33,13 +33,15 @@ app_links:
     package: com.ted.android
 isBasedOnUrl: 'http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=art-design#'
 title: 'Aparna Rao: Art that craves your attention'
-datePublished: '2015-10-25T12:01:49.217Z'
-dateModified: '2015-10-25T12:01:13.208Z'
+datePublished: '2015-10-25T12:05:33.910Z'
+dateModified: '2015-10-25T12:05:11.996Z'
 sourcePath: _posts/2015-10-25-aparna-rao-art-that-craves-your-attention.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
