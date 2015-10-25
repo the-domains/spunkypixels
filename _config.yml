@@ -1,5 +1,8 @@
+name: spunkypixels
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3225806
 title: My brain … on display
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.5430108
-  lightness: 1
   brandColors:
     - '#FFFF66'
     - '#000000'
     - '#FFFFFF'
     - '#A3ACB8'
     - '#777730'
+  brandStrength: 0.5430108
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: spunkypixels
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3225806
-layout_spectrum: 1
+purpose: []
