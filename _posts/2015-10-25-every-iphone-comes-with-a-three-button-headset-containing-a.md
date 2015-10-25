@@ -1,17 +1,23 @@
 ---
-description: 'Every iPhone comes with a three-button headset containing a center button, a plus and a minus button. Until recently I wasn’t aware that you can do more with it'
-author: []
-datePublished: '2015-10-25T11:36:35.383Z'
-publisher:
-  domain: blog.bettinakast.me
-  name: bettinakast.me
-title: ''
-dateModified: '2015-10-25T11:25:16.001Z'
-sourcePath: _posts/2015-10-25-every-iphone-comes-with-a-three-button-headset-containing-a.md
-published: true
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: 'Every iPhone comes with a three-button headset containing a center button, a plus and a minus button. Until recently I wasn’t aware that you can do more with it'
+datePublished: '2015-10-25T11:37:32.866Z'
+dateModified: '2015-10-25T11:37:26.872Z'
+author: []
+title: Hello
+sourcePath: _posts/2015-10-25-every-iphone-comes-with-a-three-button-headset-containing-a.md
+published: true
+authors: []
+publisher:
+  name: bettinakast.me
+  domain: blog.bettinakast.me
+  url: null
+  favicon: null
 url: every-iphone-comes-with-a-three-button-headset-containing-a/index.html
 _context: 'http://schema.org'
 _type: Article
