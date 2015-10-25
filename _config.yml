@@ -1,29 +1,41 @@
-name: spunkypixels
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75532
 title: My brain … on display
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#FFFF66'
+    - '#000000'
+    - '#FFFFFF'
+    - '#A3ACB8'
+    - '#777730'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: spunkypixels
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffff66'
-    - '#fffeff'
-    - '#000000'
-    - '#a2acb8'
-    - '#4f4f1f'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3225806
+layout_spectrum: 1
