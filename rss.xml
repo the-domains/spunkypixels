@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My brain … on display]]></title>
-        <description><![CDATA[My brain … on display]]></description>
+        <title><![CDATA[My readings … on display]]></title>
+        <description><![CDATA[My readings … on display]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 13:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 16:33:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aparna Rao: Art that craves your attention]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Sun, 25 Oct 2015 12:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A dialogue with green varnish in form, material, time and space]]></title>
+            <description><![CDATA[<article><h1>A dialogue with green varnish in form, material, time and space</h1><p>Browse and discover current projects realized by premium architects and designers. Presented by Architonic, the independent source for products, ..</p><img src="http://www.architonic.com/assets/image/architonic_en.png"></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/a-dialogue-with-green-varnish-in-form-material-time-and-sp/index.html</link>
+            <guid isPermaLink="false">28cccdfc-0411-438e-b071-c898e3a3ba9b</guid>
+            <pubDate>Mon, 26 Oct 2015 16:32:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New font lets anyone learn Japanese]]></title>
