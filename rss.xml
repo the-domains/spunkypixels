@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 21:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 21:49:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jinha Lee: Reach into the computer and grab a pixel]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#</link>
             <guid isPermaLink="false">f44c5b0a-4dac-4615-be62-be8033dcda66</guid>
             <pubDate>Wed, 28 Oct 2015 21:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My readings on display - spunkypixels]]></title>
+            <description><![CDATA[<article><h1>My readings on display - spunkypixels</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/index.html</link>
+            <guid isPermaLink="false">b1fecc52-5daf-4d93-85bb-db2b2bdd55c5</guid>
+            <pubDate>Wed, 28 Oct 2015 21:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shneiderman's Eight Golden Rules of Interface Design]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.dramafever.com/news/new-font-incorporates-english-pronunciation-guide-into-japanese-katakana-characters-/</link>
             <guid isPermaLink="false">078031b4-114a-4f6c-91a2-b240fe85e3f9</guid>
             <pubDate>Sun, 25 Oct 2015 13:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIT discovers the location of memories: Individual neurons | ExtremeTech]]></title>
-            <description><![CDATA[<article><h1>MIT discovers the location of memories: Individual neurons | ExtremeTech</h1><p>MIT researchers have shown, for the first time ever, that memories are stored in specific brain cells. By triggering a small cluster of neurons, the researchers were able to force the subject to recall a specific memory. By removing these neurons, the subject would lose that memory.</p><img src="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus.jpg"></article>]]></description>
-            <link>http://www.extremetech.com/extreme/123485-mit-discovers-the-location-of-memories-individual-neurons</link>
-            <guid isPermaLink="false">e121a488-9141-475f-8873-3247a7b00c52</guid>
-            <pubDate>Sun, 25 Oct 2015 13:09:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
