@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - thinner
   - spacetop
@@ -17,8 +17,8 @@ keywords:
   - beg
   - dissolve
 description: 'The border between our physical world and the digital information surrounding us has been getting thinner and thinner. Designer and engineer Jinha Lee wants to dissolve it altogether. As he demonstrates in this short, gasp-inducing talk, his ideas include a pen that penetrates into a screen to draw 3D models and SpaceTop, a computer desktop prototype that lets you reach through the screen to manipulate digital objects.'
-datePublished: '2015-10-28T21:02:25.413Z'
-dateModified: '2015-10-28T21:02:19.592Z'
+datePublished: '2015-10-28T21:02:33.184Z'
+dateModified: '2015-10-28T21:02:27.760Z'
 author:
   - name: ''
     url: null
