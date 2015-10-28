@@ -68,11 +68,11 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#t-1604'
 title: Removing the divide between physical and digital worlds
-datePublished: '2015-10-28T19:42:03.471Z'
-dateModified: '2015-10-28T19:42:00.167Z'
+datePublished: '2015-10-28T22:22:49.279Z'
+dateModified: '2015-10-28T22:22:45.075Z'
 sourcePath: _posts/2015-10-25-removing-the-divide-between-physical-and-digital-worlds.md
 published: true
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
