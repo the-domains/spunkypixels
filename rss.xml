@@ -4,7 +4,7 @@
         <description><![CDATA[My readings … on display]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 16:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 19:32:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aparna Rao: Art that craves your attention]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Sun, 25 Oct 2015 12:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natural User Interface ]]></title>
+            <description><![CDATA[<article><h1>Natural User Interface </h1><p>One of the characteristics of a successful natural interface is the reduction of cognitive load on people interacting with it Sometimes in some my projects I'm really fascinated of how the world of User Interfaces is evolving. Most of us who are involved in prototyping deal mainly with web-interfaces and mobile-interfaces.</p><img src="http://m.c.lnkd.licdn.com/mpr/mpr/AAEAAQAAAAAAAAaKAAAAJDg4YTJhYjdlLTlkNTAtNDJmZS1iOTA4LTk4NmI0MWQ4NWJiOA.png"></article>]]></description>
+            <link>urn:uuid:9de52a08-bc85-4b8c-b98a-19d27bd3520e</link>
+            <guid isPermaLink="false">6b3711e6-191a-4c70-9a58-d2c8cd189cc6</guid>
+            <pubDate>Wed, 28 Oct 2015 19:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IxD for beginners ]]></title>
+            <description><![CDATA[<article><h1>IxD for beginners </h1><p>Ready to get your feet wet in Interaction Design? In this article we touch briefly on all aspects of Interaction Design: the deliverables, guiding principles, noted designers, their tools and more. Even if you're an interaction designer yourself, give the article a read and share your thoughts.</p><img src="http://assets.uxbooth.com/uploads/2015/10/ux-interaction-design_small.ed98241d2d6b.png"></article>]]></description>
+            <link>urn:uuid:426c7982-e5ba-4d24-99d6-9fe58ee65008</link>
+            <guid isPermaLink="false">46234115-ec18-4bf1-864d-3be339d04088</guid>
+            <pubDate>Wed, 28 Oct 2015 19:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A dialogue with green varnish in form, material, time and space]]></title>
