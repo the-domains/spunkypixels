@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://greensock.com/morphSVG'
 title: MorphSVGPlugin
-datePublished: '2015-10-28T20:59:26.610Z'
-dateModified: '2015-10-28T20:54:23.129Z'
+datePublished: '2015-10-28T21:34:41.857Z'
+dateModified: '2015-10-28T20:59:26.610Z'
 sourcePath: _posts/2015-10-28-morphsvgplugin.md
 published: true
 inFeed: true
