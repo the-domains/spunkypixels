@@ -1,10 +1,14 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=BhNEGu-1VpA'
-inLanguage: en
-starred: false
+author:
+  - name: Avanade Italy
+    url: 'https://www.youtube.com/user/AvaMktg'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
 keywords:
   - avanade
   - duration
@@ -17,13 +21,7 @@ keywords:
   - fujitsu
   - milano
 description: Uploaded by Avanade Italy on 2015-09-30.
-datePublished: '2015-10-28T19:46:24.357Z'
-dateModified: '2015-10-28T19:46:19.495Z'
-author:
-  - name: Avanade Italy
-    url: 'https://www.youtube.com/user/AvaMktg'
-    avatar: {}
-related: []
+inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=BhNEGu-1VpA&feature=applinks'
     type: ios
@@ -35,15 +33,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=BhNEGu-1VpA&feature=applinks'
     type: web
+isBasedOnUrl: 'https://www.youtube.com/watch?v=BhNEGu-1VpA'
 title: The Supermarket of The Future
+datePublished: '2015-10-28T19:52:20.758Z'
+dateModified: '2015-10-28T19:49:16.047Z'
 sourcePath: _posts/2015-10-28-the-supermarket-of-the-future.md
 published: true
-authors: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
