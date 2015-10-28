@@ -1,24 +1,4 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/'
-inLanguage: en
-starred: true
-keywords:
-  - design
-  - interact
-  - interfaces
-  - users
-  - usable
-  - sketch
-  - book
-  - prototype
-  - goal-driven
-  - meetup
-description: "Ready to get your feet wet in Interaction Design? In this article we touch briefly on all aspects of Interaction Design: the deliverables, guiding principles, noted designers, their tools and more. Even if you're an interaction designer yourself, give the article a read and share your thoughts."
-datePublished: '2015-10-28T19:44:12.183Z'
-dateModified: '2015-10-28T19:44:09.266Z'
 author:
   - name: UX Booth
     url: 'http://www.uxbooth.com/author/uxbooth/'
@@ -31,18 +11,36 @@ related:
     thumbnail_height: 1188
     thumbnail_url: 'http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/shutterstock_272654909.jpg'
     thumbnail_width: 1700
+publisher:
+  url: 'http://www.uxbooth.com'
+  name: UX Booth
+  favicon: 'http://assets.uxbooth.com/themes/uxbtheme/images/favicon.ico'
+  domain: www.uxbooth.com
+keywords:
+  - design
+  - interact
+  - interfaces
+  - users
+  - usable
+  - sketch
+  - book
+  - prototype
+  - goal-driven
+  - meetup
+description: "Ready to get your feet wet in Interaction Design? In this article we touch briefly on all aspects of Interaction Design: the deliverables, guiding principles, noted designers, their tools and more. Even if you're an interaction designer yourself, give the article a read and share your thoughts."
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/'
 title: "Complete Beginner's Guide to Interaction Design"
+datePublished: '2015-10-28T19:50:48.137Z'
+dateModified: '2015-10-28T19:49:11.069Z'
 sourcePath: _posts/2015-10-28-complete-beginners-guide-to-interaction-design.md
 published: true
-authors: []
-publisher:
-  name: UX Booth
-  domain: www.uxbooth.com
-  url: 'http://www.uxbooth.com'
-  favicon: 'http://assets.uxbooth.com/themes/uxbtheme/images/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Complete Beginner's Guide to Interaction Design</h1><p>Ready to get your feet wet in Interaction Design? In this article we touch briefly on all aspects of Interaction Design: the deliverables, guiding principles, noted designers, their tools and more. Even if you're an interaction designer yourself, give the article a read and share your thoughts.</p><img src="http://assets.uxbooth.com/uploads/2015/10/complete-b-g-ixd-fb.png" /></article>
+<article style=""><h1>Complete Beginner's Guide to Interaction Design</h1><p>Ready to get your feet wet in Interaction Design&amp;quest; In this article we touch briefly on all aspects of Interaction Design&amp;colon; the deliverables&amp;comma; guiding principles&amp;comma; noted designers&amp;comma; their tools and more&amp;period; Even if you're an interaction designer yourself&amp;comma; give the article a read and share your thoughts&amp;period;</p><img src="http://assets.uxbooth.com/uploads/2015/10/complete-b-g-ixd-fb.png" /></article>
