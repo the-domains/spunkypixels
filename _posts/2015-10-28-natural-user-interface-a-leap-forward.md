@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.linkedin.com/pulse/natural-user-interface-leap-forward-silvio-sangineto'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - nui
   - microsoft
@@ -17,8 +17,8 @@ keywords:
   - surface
   - touching
 description: "One of the characteristics of a successful natural interface is the reduction of cognitive load on people interacting with it Sometimes in some my projects I'm really fascinated of how the world of User Interfaces is evolving. Most of us who are involved in prototyping deal mainly with web-interfaces and mobile-interfaces."
-datePublished: '2015-10-28T19:45:00.872Z'
-dateModified: '2015-10-28T19:44:57.003Z'
+datePublished: '2015-10-28T19:45:31.559Z'
+dateModified: '2015-10-28T19:45:25.496Z'
 author:
   - name: Silvio Sangineto
     url: 'https://www.linkedin.com/in/silviosangineto?trk=pulse-det-athr_prof-art_hdr'
