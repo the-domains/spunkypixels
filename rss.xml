@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 21:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 21:56:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jinha Lee: Reach into the computer and grab a pixel]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#</link>
             <guid isPermaLink="false">f44c5b0a-4dac-4615-be62-be8033dcda66</guid>
             <pubDate>Wed, 28 Oct 2015 21:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raf Ramakers]]></title>
+            <description><![CDATA[<article><h1>Raf Ramakers</h1><p>Touch screens have been widely adopted in mobile devices. Although touch input is very flexible in that it can be used for a wide variety of applications on mobile devices, they do not provide physical affordances, encourage eyes-free use or utilize the full dexterity of our hands due to the lack of physical controls.</p><img src="http://www.raframakers.net/wiki/uploads/Main/Paddle/ringing.jpg"></article>]]></description>
+            <link>http://www.raframakers.net/wiki/Main/Paddle</link>
+            <guid isPermaLink="false">a8b00a38-7ffc-4a19-bb47-f072eb563352</guid>
+            <pubDate>Wed, 28 Oct 2015 21:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My readings on display - spunkypixels]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/spunkypixels/a-dialogue-with-green-varnish-in-form-material-time-and-sp/index.html</link>
             <guid isPermaLink="false">28cccdfc-0411-438e-b071-c898e3a3ba9b</guid>
             <pubDate>Mon, 26 Oct 2015 16:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New font lets anyone learn Japanese]]></title>
-            <description><![CDATA[<article><h1>New font lets anyone learn Japanese</h1><p>A U.K. company named Johnson Banks has come with an ingenious way to include English pronunciation in Japanese katakana characters. The company has dubbed this new font cleverly as "Phonetikana," where each katakana character featured a few English letters to help English speakers say the word properly.</p><img src="http://www.dramafever.com/st/news/images/501_alphabet_bit.jpg"></article>]]></description>
-            <link>http://www.dramafever.com/news/new-font-incorporates-english-pronunciation-guide-into-japanese-katakana-characters-/</link>
-            <guid isPermaLink="false">078031b4-114a-4f6c-91a2-b240fe85e3f9</guid>
-            <pubDate>Sun, 25 Oct 2015 13:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
