@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:9de52a08-bc85-4b8c-b98a-19d27bd3520e'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Natural User Interface
-datePublished: '2015-10-28T19:32:19.098Z'
-dateModified: '2015-10-28T19:31:58.605Z'
+datePublished: '2015-10-28T19:35:09.324Z'
+dateModified: '2015-10-28T19:35:04.527Z'
 author: []
 title: 'Natural User Interface '
 sourcePath: _posts/2015-10-28-natural-user-interface.md
