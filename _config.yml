@@ -1,5 +1,8 @@
+name: spunkypixels
+favicon: null
+layout_spectrum: 0.75302
+typography_spectrum: 0.91047
 title: 'My readings  …  on display '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-11348977-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#ffff66'
     - '#a2acb8'
     - '#000000'
     - '#606060'
     - '#2c2c2c'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-11348977-1
-  facebook: null
-name: spunkypixels
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.91047
-layout_spectrum: 0.75302
+purpose: []
