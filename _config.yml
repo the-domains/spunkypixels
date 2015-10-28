@@ -2,7 +2,7 @@ name: spunkypixels
 favicon: null
 layout_spectrum: 0.75302
 typography_spectrum: 0.91047
-title: 'My readings  …  on display '
+title: 'My readings  on display '
 collections:
   - index:
       path: /
