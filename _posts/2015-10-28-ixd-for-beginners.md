@@ -1,18 +1,24 @@
 ---
 description: IxD for beginners
+isBasedOnUrl: 'urn:uuid:426c7982-e5ba-4d24-99d6-9fe58ee65008'
 author: []
-datePublished: '2015-10-28T19:18:11.376Z'
+datePublished: '2015-10-28T19:23:39.125Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: 'IxD for beginners '
-dateModified: '2015-10-27T19:38:10.120Z'
+dateModified: '2015-10-28T19:23:29.540Z'
 sourcePath: _posts/2015-10-28-ixd-for-beginners.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: ixd-for-beginners/index.html
+inLanguage: null
+starred: false
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
