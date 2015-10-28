@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-11348977-1
   facebook: null
-favicon: null
 name: spunkypixels
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6971326
-layout_spectrum: 1
+layout_spectrum: 0.7275985
