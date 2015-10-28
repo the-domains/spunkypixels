@@ -33,14 +33,14 @@ app_links:
     package: com.ted.android
 isBasedOnUrl: 'http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=art-design#'
 title: 'Aparna Rao: Art that craves your attention'
-datePublished: '2015-10-28T19:34:50.511Z'
-dateModified: '2015-10-25T12:53:04.925Z'
+datePublished: '2015-10-28T22:22:33.524Z'
+dateModified: '2015-10-28T22:22:30.985Z'
 sourcePath: _posts/2015-10-25-aparna-rao-art-that-craves-your-attention.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: false
+starred: true
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
