@@ -17,8 +17,8 @@ keywords:
   - surface
   - touching
 description: "One of the characteristics of a successful natural interface is the reduction of cognitive load on people interacting with it Sometimes in some my projects I'm really fascinated of how the world of User Interfaces is evolving. Most of us who are involved in prototyping deal mainly with web-interfaces and mobile-interfaces."
-datePublished: '2015-10-28T19:45:47.781Z'
-dateModified: '2015-10-28T19:45:43.303Z'
+datePublished: '2015-10-28T19:46:43.025Z'
+dateModified: '2015-10-28T19:46:37.659Z'
 author:
   - name: Silvio Sangineto
     url: 'https://www.linkedin.com/in/silviosangineto?trk=pulse-det-athr_prof-art_hdr'
