@@ -1,24 +1,24 @@
 ---
-description: Natural User Interface
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:9de52a08-bc85-4b8c-b98a-19d27bd3520e'
+inLanguage: null
+starred: true
+keywords: []
+description: Natural User Interface
+datePublished: '2015-10-28T19:32:19.098Z'
+dateModified: '2015-10-28T19:31:58.605Z'
 author: []
-datePublished: '2015-10-28T19:23:29.168Z'
+title: 'Natural User Interface '
+sourcePath: _posts/2015-10-28-natural-user-interface.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-title: 'Natural User Interface '
-dateModified: '2015-10-28T19:23:29.084Z'
-sourcePath: _posts/2015-10-28-natural-user-interface.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-authors: []
 _context: 'http://schema.org'
 _type: Article
 
