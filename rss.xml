@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 21:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 21:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jinha Lee: Reach into the computer and grab a pixel]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#</link>
             <guid isPermaLink="false">f44c5b0a-4dac-4615-be62-be8033dcda66</guid>
             <pubDate>Wed, 28 Oct 2015 21:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NUI Group - Natural User Interface Group]]></title>
+            <description><![CDATA[<article><h1>NUI Group - Natural User Interface Group</h1><p>Q: What is a "natural user interface"? The term "natural user interface" is an emerging computer interaction methodology which focuses on human abilities such as touch, vision, voice, motion and higher cognitive functions such as expression, perception and recall.</p></article>]]></description>
+            <link>http://nuigroup.com/faq/</link>
+            <guid isPermaLink="false">7e14cad8-3e84-47ef-a383-c65fb124a1f8</guid>
+            <pubDate>Wed, 28 Oct 2015 21:56:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raf Ramakers]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 19:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A dialogue with green varnish in form, material, time and space]]></title>
-            <description><![CDATA[<article><h1>A dialogue with green varnish in form, material, time and space</h1><p>Browse and discover current projects realized by premium architects and designers. Presented by Architonic, the independent source for products, ..</p><img src="http://www.architonic.com/assets/image/architonic_en.png"></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/a-dialogue-with-green-varnish-in-form-material-time-and-sp/index.html</link>
-            <guid isPermaLink="false">28cccdfc-0411-438e-b071-c898e3a3ba9b</guid>
-            <pubDate>Mon, 26 Oct 2015 16:32:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
