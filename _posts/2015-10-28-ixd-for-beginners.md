@@ -1,24 +1,24 @@
 ---
-description: IxD for beginners
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:426c7982-e5ba-4d24-99d6-9fe58ee65008'
+inLanguage: null
+starred: false
+keywords: []
+description: IxD for beginners
+datePublished: '2015-10-28T19:32:13.557Z'
+dateModified: '2015-10-28T19:32:08.754Z'
 author: []
-datePublished: '2015-10-28T19:23:39.125Z'
+title: 'IxD for beginners '
+sourcePath: _posts/2015-10-28-ixd-for-beginners.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-title: 'IxD for beginners '
-dateModified: '2015-10-28T19:23:29.540Z'
-sourcePath: _posts/2015-10-28-ixd-for-beginners.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-authors: []
 _context: 'http://schema.org'
 _type: Article
 
