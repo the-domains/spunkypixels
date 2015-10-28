@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#'
+inLanguage: en
+starred: false
+keywords:
+  - thinner
+  - spacetop
+  - gasp-inducing
+  - digital
+  - jinha
+  - screen
+  - desktop
+  - prototype
+  - beg
+  - dissolve
+description: 'The border between our physical world and the digital information surrounding us has been getting thinner and thinner. Designer and engineer Jinha Lee wants to dissolve it altogether. As he demonstrates in this short, gasp-inducing talk, his ideas include a pen that penetrates into a screen to draw 3D models and SpaceTop, a computer desktop prototype that lets you reach through the screen to manipulate digital objects.'
+datePublished: '2015-10-28T21:02:25.413Z'
+dateModified: '2015-10-28T21:02:19.592Z'
 author:
   - name: ''
     url: null
@@ -32,24 +52,6 @@ related:
     thumbnail_height: 180
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/f077e677088cb81563a1284189fa6f938ddbd5a2_240x180.jpg?lang=en'
     thumbnail_width: 240
-publisher:
-  url: 'http://ted.com'
-  name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
-  domain: www.ted.com
-keywords:
-  - thinner
-  - spacetop
-  - gasp-inducing
-  - digital
-  - jinha
-  - screen
-  - desktop
-  - prototype
-  - beg
-  - dissolve
-description: 'The border between our physical world and the digital information surrounding us has been getting thinner and thinner. Designer and engineer Jinha Lee wants to dissolve it altogether. As he demonstrates in this short, gasp-inducing talk, his ideas include a pen that penetrates into a screen to draw 3D models and SpaceTop, a computer desktop prototype that lets you reach through the screen to manipulate digital objects.'
-inLanguage: en
 app_links:
   - url: 'ted://x-callback-url/talk?talkID=1781&source=facebook'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     type: web
     app_name: TED
     package: com.ted.android
-isBasedOnUrl: 'https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#'
 title: 'Jinha Lee: Reach into the computer and grab a pixel'
-datePublished: '2015-10-28T21:01:25.651Z'
-dateModified: '2015-10-28T21:01:02.460Z'
 sourcePath: _posts/2015-10-28-jinha-lee-reach-into-the-computer-and-grab-a-pixel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: TED
+  domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
