@@ -1,18 +1,24 @@
 ---
 description: Natural User Interface
+isBasedOnUrl: 'urn:uuid:9de52a08-bc85-4b8c-b98a-19d27bd3520e'
 author: []
-datePublished: '2015-10-28T19:18:11.368Z'
+datePublished: '2015-10-28T19:23:29.168Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: 'Natural User Interface '
-dateModified: '2015-10-27T09:05:56.607Z'
+dateModified: '2015-10-28T19:23:29.084Z'
 sourcePath: _posts/2015-10-28-natural-user-interface.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: natural-user-interface/index.html
+inLanguage: null
+starred: false
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
