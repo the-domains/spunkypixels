@@ -4,25 +4,32 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 06:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:14:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
-            <description><![CDATA[<article><h1>Removing the divide between physical and digital worlds</h1><p>The border between our physical world and the digital information surrounding us has been getting thinner and thinner. Designer and engineer Jinha Lee wants to dissolve it altogether. As he demonstrates in this short, gasp-inducing talk, his ideas include a pen that penetrates into a screen to draw 3D models and SpaceTop, a computer desktop prototype that lets you reach through the screen to manipulate digital objects.</p></article>]]></description>
+            <description><![CDATA[<h1>Removing the divide between physical and digital worlds</h1>]]></description>
             <link>https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels?language=en#t-1604</link>
             <guid isPermaLink="false">76068217-a3c1-4db8-8284-da4a6dfa6b3b</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aparna Rao: Art that craves your attention]]></title>
-            <description><![CDATA[<article><h1>Aparna Rao: Art that craves your attention</h1><p>In this charming talk, artist Aparna Rao shows us her latest work: cool, cartoony sculptures (with neat robotic tricks underneath them) that play with your perception -- and crave your attention. Take a few minutes to simply be delighted.</p></article>]]></description>
+            <description><![CDATA[In this charming talk, artist Aparna Rao shows us her latest work: cool, cartoony sculptures (with neat robotic tricks underneath them) that play with your perception -- and crave your attention. Take a few minutes to simply be delighted.]]></description>
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Technical skills]]></title>
+            <description><![CDATA[<article><h1>Technical skills</h1><p>There's a prevalent train of thought running amuck through the tech startup world: Entrepreneurs believe learning to code will boost their credibility, provide them with a deeper understanding of their businesses, and transform their abilities to lead their troops. Many will run to Codecademy , take a few courses, and expect to be able to write an enterprise app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1410f2c6f82255d204ddefc6ad050b36558ac5ac.jpg"></article>]]></description>
+            <link>http://tech.co/5-things-tech-entrepreneurs-instead-learning-code-2015-11</link>
+            <guid isPermaLink="false">3cc4863c-d220-4ce4-9494-44e10c719be6</guid>
+            <pubDate>Thu, 21 Apr 2016 08:14:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Origami - Visual programming]]></title>
-            <description><![CDATA[<h1>Origami - Visual programming</h1>]]></description>
+            <description><![CDATA[<article><h1>Origami - Visual programming</h1><p>Facebook is introducing a new prototyping tool, Origami Studio</p></article>]]></description>
             <link>https://thegrid.ai/spunkypixels/origami-visual-programming/index.html</link>
             <guid isPermaLink="false">cf82663b-08ad-467a-8f69-e349e80f040d</guid>
             <pubDate>Sun, 17 Apr 2016 06:35:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html</link>
             <guid isPermaLink="false">e7792079-3d4e-4d47-a809-460f77f1d743</guid>
             <pubDate>Wed, 28 Oct 2015 21:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Supermarket of The Future]]></title>
-            <description><![CDATA[<article><h1>The Supermarket of The Future</h1><p>Uploaded by Avanade Italy on 2015-09-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f07d7fac148379323c020dfbe23d940d5b5520c3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=BhNEGu-1VpA</link>
-            <guid isPermaLink="false">026057d6-8e34-45bb-84da-d1d0ee4c3d3d</guid>
-            <pubDate>Wed, 28 Oct 2015 19:52:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
