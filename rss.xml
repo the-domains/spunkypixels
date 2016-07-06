@@ -21,6 +21,13 @@
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Data minimization ]]></title>
+            <description><![CDATA[<h1>Data minimization </h1>]]></description>
+            <link>https://thegrid.ai/spunkypixels/data-minimization/index.html</link>
+            <guid isPermaLink="false">cf6df713-b1bb-48f2-90c9-7a61312f6a6a</guid>
+            <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lean canvas]]></title>
             <description><![CDATA[<h1>Lean canvas</h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/lean-canvas/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/spunkypixels/origami-visual-programming/index.html</link>
             <guid isPermaLink="false">cf82663b-08ad-467a-8f69-e349e80f040d</guid>
             <pubDate>Sun, 17 Apr 2016 06:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brief Rant on the Future of Interaction Design]]></title>
-            <description><![CDATA[<article><h1>A Brief Rant on the Future of Interaction Design</h1><p>So, here's a Vision Of The Future that's popular right now. It's a lot of this sort of thing. As it happens, designing Future Interfaces For The Future used to be my line of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b5c21dfbed913b23a665661371ce8ad55199ae.png"></article>]]></description>
-            <link>http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/</link>
-            <guid isPermaLink="false">3ce6035a-5ddf-4d5e-982f-6755e6b447e0</guid>
-            <pubDate>Wed, 28 Oct 2015 22:11:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
