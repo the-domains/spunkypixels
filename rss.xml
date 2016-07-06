@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:29:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebooks]]></title>
+            <description><![CDATA[<article><h1>Ebooks</h1><p>135 FREE ebooks on User Experience, Usability, User Interface Design and more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75a159a036f2ec09b47e4d6eb19fbc5db61ec08c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/ebooks/index.html</link>
+            <guid isPermaLink="false">9bcd55a7-401b-435c-922b-fe77dbc27bfb</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neuronales Netzwerk ]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<h1>Mnemonics</h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/mnemonics/index.html</link>
             <guid isPermaLink="false">300f8252-d8a7-46cc-87c2-3cdbac0e532f</guid>
-            <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liminal thinking]]></title>
-            <description><![CDATA[<article><h1>Liminal thinking</h1><p>How can a monkey, an elephant and a lizard can help you reach your goals? Let me tell you a story. We all have brains, but they don't come with an operating manual, like a car or a blender. Wouldn't it be nice if they did?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aa4d41ff2834ace60ce94ae168f7d9161f62ace.jpg"></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/liminal-thinking/index.html</link>
-            <guid isPermaLink="false">935b8945-efe4-4280-844c-840032e86e05</guid>
             <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
         </item>
     </channel>
