@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:22:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -19,6 +19,20 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lean canvas]]></title>
+            <description><![CDATA[<h1>Lean canvas</h1>]]></description>
+            <link>https://thegrid.ai/spunkypixels/lean-canvas/index.html</link>
+            <guid isPermaLink="false">ecc35f4d-aa52-4a97-96ab-6bb8c4464789</guid>
+            <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mnemonics]]></title>
+            <description><![CDATA[<h1>Mnemonics</h1>]]></description>
+            <link>https://thegrid.ai/spunkypixels/mnemonics/index.html</link>
+            <guid isPermaLink="false">300f8252-d8a7-46cc-87c2-3cdbac0e532f</guid>
+            <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liminal thinking]]></title>
@@ -61,20 +75,6 @@
             <link>http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/</link>
             <guid isPermaLink="false">3ce6035a-5ddf-4d5e-982f-6755e6b447e0</guid>
             <pubDate>Wed, 28 Oct 2015 22:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Research Lab | Reflective Haptics]]></title>
-            <description><![CDATA[<article><h1>Design Research Lab | Reflective Haptics</h1><p>This project investigates a new type of feedback for touch screen styli: frictional actuation. The proposed pen has a ball on its tip, which is connected to an electromagnetic coil. This coil serves as a brake to the ball, enabling fine-tuned control for the force required to drag the pen over the surface.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43544eef4521e514dcb2e5efe3aff5339c51d6fc.jpg"></article>]]></description>
-            <link>http://www.design-research-lab.org/projects/reflective-haptics/</link>
-            <guid isPermaLink="false">401406fb-b0d4-4fe5-a98a-6522ecc7a30c</guid>
-            <pubDate>Wed, 28 Oct 2015 22:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NUI Group - Natural User Interface Group]]></title>
-            <description><![CDATA[<article><h1>NUI Group - Natural User Interface Group</h1><p>Q: What is a "natural user interface"? The term "natural user interface" is an emerging computer interaction methodology which focuses on human abilities such as touch, vision, voice, motion and higher cognitive functions such as expression, perception and recall.</p></article>]]></description>
-            <link>http://nuigroup.com/faq/</link>
-            <guid isPermaLink="false">7e14cad8-3e84-47ef-a383-c65fb124a1f8</guid>
-            <pubDate>Wed, 28 Oct 2015 21:56:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
