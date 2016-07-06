@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:21:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Innovate ]]></title>
+            <description><![CDATA[<article><h1>Innovate </h1><p>Sony is trying to tap into some of the mojo of Maker Faire and Indiegogo to bring more innovative, and specialized, gadgets to market. The company recently launched an Indiegogo-like site called Future Lab for the U.S. where it wants to show off products straight out its R&D department in Japan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de75def71d7a8a805a694cb1855fa4760ec10a94.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3058811/why-sony-and-other-big-tech-companies-are-tapping-into-the-maker-movements-spirit</link>
+            <guid isPermaLink="false">be6b78da-acb1-4e91-b231-4376992fa2c0</guid>
+            <pubDate>Wed, 06 Jul 2016 21:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Technical skills]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/spunkypixels/morphsvgplugin/index.html</link>
             <guid isPermaLink="false">4aec4421-f3e1-4b75-86b1-def1c6da163c</guid>
             <pubDate>Wed, 28 Oct 2015 21:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shneiderman's Eight Golden Rules of Interface Design]]></title>
-            <description><![CDATA[<article><h1>Shneiderman's Eight Golden Rules of Interface Design</h1><p>To improve the usability of an application it is important to have a well designed interface. Shneiderman's "Eight Golden Rules of Interface Design" are a guide to good interaction design.</p></article>]]></description>
-            <link>http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html</link>
-            <guid isPermaLink="false">e7792079-3d4e-4d47-a809-460f77f1d743</guid>
-            <pubDate>Wed, 28 Oct 2015 21:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
