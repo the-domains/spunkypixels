@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:29:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -25,13 +25,6 @@
             <description><![CDATA[<h1>The future of machine learning </h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/the-future-of-machine-learning/index.html</link>
             <guid isPermaLink="false">f1d19760-7086-4082-ac80-15406852bd43</guid>
-            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Future of the mind]]></title>
-            <description><![CDATA[<article><h1>Future of the mind</h1><p>Explorations in Science :: Official Website of Dr. Michio Kaku</p></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/future-of-the-mind/index.html</link>
-            <guid isPermaLink="false">481d068c-44a6-4ea5-a2dc-224980242de2</guid>
             <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>http://www.fastcompany.com/3058811/why-sony-and-other-big-tech-companies-are-tapping-into-the-maker-movements-spirit</link>
             <guid isPermaLink="false">be6b78da-acb1-4e91-b231-4376992fa2c0</guid>
             <pubDate>Wed, 06 Jul 2016 21:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technical skills]]></title>
+            <description><![CDATA[<article><h1>Technical skills</h1><p>There's a prevalent train of thought running amuck through the tech startup world: Entrepreneurs believe learning to code will boost their credibility, provide them with a deeper understanding of their businesses, and transform their abilities to lead their troops. Many will run to Codecademy , take a few courses, and expect to be able to write an enterprise app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1410f2c6f82255d204ddefc6ad050b36558ac5ac.jpg"></article>]]></description>
+            <link>http://tech.co/5-things-tech-entrepreneurs-instead-learning-code-2015-11</link>
+            <guid isPermaLink="false">3cc4863c-d220-4ce4-9494-44e10c719be6</guid>
+            <pubDate>Thu, 21 Apr 2016 08:14:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
