@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:29:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -21,10 +21,31 @@
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Neuronales Netzwerk ]]></title>
+            <description><![CDATA[<article><h1>Neuronales Netzwerk </h1><p>Im Bereich der Fotoerkennung hat Google in den letzten Jahren enorme Fortschritte gemacht und kann mittlerweile sehr viele verschiedene Dinge, Personen und auch Szenen erkennen - wovon sich jeder selbst mit Google Photos überzeugen kann.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5957967d6db152b7342e8155b2a98500e104a26.jpg"></article>]]></description>
+            <link>http://www.googlewatchblog.de/2016/02/planet-google-forscher-netzwerk/?utm_content=buffer90837&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">1f9476f1-b722-4077-a5d6-623b6c2b96da</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BMWs concept car - Next 100]]></title>
+            <description><![CDATA[<h1>BMWs concept car - Next 100</h1>]]></description>
+            <link>https://thegrid.ai/spunkypixels/bmws-concept-car-next-100/index.html</link>
+            <guid isPermaLink="false">80ec1c49-ca21-41d8-8403-8bdafbc2f02a</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The future of machine learning ]]></title>
             <description><![CDATA[<h1>The future of machine learning </h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/the-future-of-machine-learning/index.html</link>
             <guid isPermaLink="false">f1d19760-7086-4082-ac80-15406852bd43</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future of the mind]]></title>
+            <description><![CDATA[<article><h1>Future of the mind</h1><p>Explorations in Science :: Official Website of Dr. Michio Kaku</p></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/future-of-the-mind/index.html</link>
+            <guid isPermaLink="false">481d068c-44a6-4ea5-a2dc-224980242de2</guid>
             <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/spunkypixels/liminal-thinking/index.html</link>
             <guid isPermaLink="false">935b8945-efe4-4280-844c-840032e86e05</guid>
             <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Habit building ]]></title>
-            <description><![CDATA[<article><h1>Habit building </h1><p>We're conditioned to see big career leaps as tales of risk and reward, but they're mostly fables. Not long ago, my friend Bryan quit his corporate job working as a technical writer for a Fortune 500 company in order to do something new.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62dad5d6cab87c790ab5b00691e3a07f6d2bdc8a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/habit-building/index.html</link>
-            <guid isPermaLink="false">d1715187-3b61-45ab-872c-0988e671326b</guid>
-            <pubDate>Wed, 06 Jul 2016 21:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Innovate ]]></title>
-            <description><![CDATA[<article><h1>Innovate </h1><p>Sony is trying to tap into some of the mojo of Maker Faire and Indiegogo to bring more innovative, and specialized, gadgets to market. The company recently launched an Indiegogo-like site called Future Lab for the U.S. where it wants to show off products straight out its R&D department in Japan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de75def71d7a8a805a694cb1855fa4760ec10a94.jpg"></article>]]></description>
-            <link>http://www.fastcompany.com/3058811/why-sony-and-other-big-tech-companies-are-tapping-into-the-maker-movements-spirit</link>
-            <guid isPermaLink="false">be6b78da-acb1-4e91-b231-4376992fa2c0</guid>
-            <pubDate>Wed, 06 Jul 2016 21:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technical skills]]></title>
-            <description><![CDATA[<article><h1>Technical skills</h1><p>There's a prevalent train of thought running amuck through the tech startup world: Entrepreneurs believe learning to code will boost their credibility, provide them with a deeper understanding of their businesses, and transform their abilities to lead their troops. Many will run to Codecademy , take a few courses, and expect to be able to write an enterprise app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1410f2c6f82255d204ddefc6ad050b36558ac5ac.jpg"></article>]]></description>
-            <link>http://tech.co/5-things-tech-entrepreneurs-instead-learning-code-2015-11</link>
-            <guid isPermaLink="false">3cc4863c-d220-4ce4-9494-44e10c719be6</guid>
-            <pubDate>Thu, 21 Apr 2016 08:14:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
