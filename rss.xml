@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 21:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 21:22:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Habit building ]]></title>
+            <description><![CDATA[<article><h1>Habit building </h1><p>We're conditioned to see big career leaps as tales of risk and reward, but they're mostly fables. Not long ago, my friend Bryan quit his corporate job working as a technical writer for a Fortune 500 company in order to do something new.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62dad5d6cab87c790ab5b00691e3a07f6d2bdc8a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/habit-building/index.html</link>
+            <guid isPermaLink="false">d1715187-3b61-45ab-872c-0988e671326b</guid>
+            <pubDate>Wed, 06 Jul 2016 21:22:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Innovate ]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.raframakers.net/wiki/Main/Paddle</link>
             <guid isPermaLink="false">a8b00a38-7ffc-4a19-bb47-f072eb563352</guid>
             <pubDate>Wed, 28 Oct 2015 21:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MorphSVGPlugin]]></title>
-            <description><![CDATA[<article><h1>MorphSVGPlugin</h1><p>MorphSVGPlugin provides advanced control over tweens that morph SVG paths. The video below details what you need to know to get up and running fast with MorphSVGPlugin. It has never been easier to morph between SVG shapes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2198a91da4b6700b6ed85115c41b37bc6236aafb.gif"></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/morphsvgplugin/index.html</link>
-            <guid isPermaLink="false">4aec4421-f3e1-4b75-86b1-def1c6da163c</guid>
-            <pubDate>Wed, 28 Oct 2015 21:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
