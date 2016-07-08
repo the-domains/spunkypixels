@@ -4,8 +4,15 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 20:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 20:02:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chatting bots]]></title>
+            <description><![CDATA[<article><h1>Chatting bots</h1><p>At F8, Facebook's massive annual developer conference, the big news is bots-specifically bots on Messenger, Facebook's messaging app. Messenger now boasts 900 million users per month, which presents a tantalizing user base for companies eager to get their wares in front of customers. That's where the bots come in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2512fec215033f94a1c320e8b70bde9e99833253.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3058818/how-facebooks-big-bet-on-chatbots-might-remake-the-ux-of-the-web</link>
+            <guid isPermaLink="false">d5361b6f-57bc-4281-bb5d-49adf3244eef</guid>
+            <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
             <description><![CDATA[<h1>Removing the divide between physical and digital worlds</h1>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<h1>BMWs concept car - Next 100</h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/bmws-concept-car-next-100/index.html</link>
             <guid isPermaLink="false">80ec1c49-ca21-41d8-8403-8bdafbc2f02a</guid>
-            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future of machine learning ]]></title>
-            <description><![CDATA[<h1>The future of machine learning </h1>]]></description>
-            <link>https://thegrid.ai/spunkypixels/the-future-of-machine-learning/index.html</link>
-            <guid isPermaLink="false">f1d19760-7086-4082-ac80-15406852bd43</guid>
             <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
         </item>
     </channel>
