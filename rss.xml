@@ -4,15 +4,8 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 20:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 20:02:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Chatting bots]]></title>
-            <description><![CDATA[<article><h1>Chatting bots</h1><p>At F8, Facebook's massive annual developer conference, the big news is bots-specifically bots on Messenger, Facebook's messaging app. Messenger now boasts 900 million users per month, which presents a tantalizing user base for companies eager to get their wares in front of customers. That's where the bots come in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2512fec215033f94a1c320e8b70bde9e99833253.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3058818/how-facebooks-big-bet-on-chatbots-might-remake-the-ux-of-the-web</link>
-            <guid isPermaLink="false">d5361b6f-57bc-4281-bb5d-49adf3244eef</guid>
-            <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
             <description><![CDATA[<h1>Removing the divide between physical and digital worlds</h1>]]></description>
@@ -26,13 +19,6 @@
             <link>http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=talk&amp;utm_term=art-design#</link>
             <guid isPermaLink="false">eec7f9e9-b2fa-4f28-b9a6-0ba1d7f357f9</guid>
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[https://creativemarket.com/blog/2015/12/03/design-habits-to-break-in-2016]]></title>
-            <description><![CDATA[<article><h1>https://creativemarket.com/blog/2015/12/03/design-habits-to-break-in-2016</h1><p>It's almost 2016, hard to believe isn't it? With a new year fast approaching, it's the perfect time to take stock of the way you do things. No matter what stage you're at, it's always wise to note any bad design habits you might've picked up along the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e9b303fc42b18265076ddcd77d6abb796fa8bf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/httpscreativemarketcomblog20151203design-habits-to-/index.html</link>
-            <guid isPermaLink="false">d7959cd1-8c32-4128-9b2b-e536099cb78d</guid>
-            <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mistakes backend coders make]]></title>
@@ -74,6 +60,20 @@
             <description><![CDATA[<h1>BMWs concept car - Next 100</h1>]]></description>
             <link>https://thegrid.ai/spunkypixels/bmws-concept-car-next-100/index.html</link>
             <guid isPermaLink="false">80ec1c49-ca21-41d8-8403-8bdafbc2f02a</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The future of machine learning ]]></title>
+            <description><![CDATA[<h1>The future of machine learning </h1>]]></description>
+            <link>https://thegrid.ai/spunkypixels/the-future-of-machine-learning/index.html</link>
+            <guid isPermaLink="false">f1d19760-7086-4082-ac80-15406852bd43</guid>
+            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future of the mind]]></title>
+            <description><![CDATA[<article><h1>Future of the mind</h1><p>Explorations in Science :: Official Website of Dr. Michio Kaku</p></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/future-of-the-mind/index.html</link>
+            <guid isPermaLink="false">481d068c-44a6-4ea5-a2dc-224980242de2</guid>
             <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
         </item>
     </channel>
