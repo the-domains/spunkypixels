@@ -4,7 +4,7 @@
         <description><![CDATA[My readings  on display ]]></description>
         <link>https://thegrid.ai/spunkypixels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 20:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 20:02:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spunkypixels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Removing the divide between physical and digital worlds]]></title>
@@ -21,10 +21,24 @@
             <pubDate>Wed, 28 Oct 2015 22:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[https://creativemarket.com/blog/2015/12/03/design-habits-to-break-in-2016]]></title>
+            <description><![CDATA[<article><h1>https://creativemarket.com/blog/2015/12/03/design-habits-to-break-in-2016</h1><p>It's almost 2016, hard to believe isn't it? With a new year fast approaching, it's the perfect time to take stock of the way you do things. No matter what stage you're at, it's always wise to note any bad design habits you might've picked up along the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e9b303fc42b18265076ddcd77d6abb796fa8bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spunkypixels/httpscreativemarketcomblog20151203design-habits-to-/index.html</link>
+            <guid isPermaLink="false">d7959cd1-8c32-4128-9b2b-e536099cb78d</guid>
+            <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mistakes backend coders make]]></title>
             <description><![CDATA[<article><h1>Mistakes backend coders make</h1><p>User experience is paramount for successful websites, but backend coding is responsible for processing data and storing important user input for dynamic website responses. The best teams contain a designer and backend coder who together create apps that solve user problems. As a backend coder, great communication and interpersonal skills with designers will not only enhance an app, but it will also make it a success.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/054d78c0479772d55b49cb1bce6061d0826a128b.jpg"></article>]]></description>
             <link>http://gobysavvy.com/top-6-mistakes-backend-coders-make-with-uiux/</link>
             <guid isPermaLink="false">7f45b449-7f91-44c3-bb7b-561ad61f881c</guid>
+            <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[16 rules to break in 2016]]></title>
+            <description><![CDATA[<article><h1>16 rules to break in 2016</h1><p>Traditional rules go out the proverbial window for designers on the search of something unique. If you want to innovate, you might have to break some rules especially when it comes to graphics design. Because when it comes to creativity in the digital world, you can't always color within the lines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38f6209da5c52bc8a59c008951478ac453b871da.png"></article>]]></description>
+            <link>http://www.designmantic.com/blog/interactive-media/16-design-rules-to-break-in-2016/</link>
+            <guid isPermaLink="false">496ab0b6-cbfe-4740-be8c-a26e3155c621</guid>
             <pubDate>Fri, 08 Jul 2016 20:01:21 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/spunkypixels/the-future-of-machine-learning/index.html</link>
             <guid isPermaLink="false">f1d19760-7086-4082-ac80-15406852bd43</guid>
             <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Future of the mind]]></title>
-            <description><![CDATA[<article><h1>Future of the mind</h1><p>Explorations in Science :: Official Website of Dr. Michio Kaku</p></article>]]></description>
-            <link>https://thegrid.ai/spunkypixels/future-of-the-mind/index.html</link>
-            <guid isPermaLink="false">481d068c-44a6-4ea5-a2dc-224980242de2</guid>
-            <pubDate>Wed, 06 Jul 2016 21:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data minimization ]]></title>
-            <description><![CDATA[<h1>Data minimization </h1>]]></description>
-            <link>https://thegrid.ai/spunkypixels/data-minimization/index.html</link>
-            <guid isPermaLink="false">cf6df713-b1bb-48f2-90c9-7a61312f6a6a</guid>
-            <pubDate>Wed, 06 Jul 2016 21:22:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
